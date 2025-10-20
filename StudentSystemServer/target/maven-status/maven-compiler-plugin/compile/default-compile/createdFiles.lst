@@ -1,0 +1,5 @@
+com\mycompany\studentsystemserver\DBConnection.class
+com\mycompany\studentsystemserver\Server.class
+com\mycompany\studentsystemserver\studentdao\StudentDAO.class
+com\mycompany\studentsystemserver\Course.class
+com\mycompany\studentsystemserver\Student.class
